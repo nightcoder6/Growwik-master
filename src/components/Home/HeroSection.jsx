@@ -31,7 +31,7 @@ export default function HeroSection() {
             >
               <Image
                 src="/Logo-with-tag.svg"
-                alt="Growwik Logo"
+                alt="PR Prabandhak Logo"
                 width={400}
                 height={150}
                 className="mb-4"

@@ -54,7 +54,7 @@ function AboutUs() {
           className="text-lg md:text-xl leading-relaxed mb-8"
           variants={itemVariants}
         >
-          At Growwik Marketing, we craft tailor-made social media strategies
+          At PR Prabandhak Marketing, we craft tailor-made social media strategies
           that drive business results. We specialize in creating content-first
           campaigns, designed for each client&apos;s unique industry, audience,
           and objectives. With years of performance data and a deep

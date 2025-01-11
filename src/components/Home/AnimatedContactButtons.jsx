@@ -50,7 +50,7 @@ const AnimatedContactButtons = () => {
               className="mb-2"
             >
               <a
-                href="mailto:contact@growwik.com"
+                href="mailto:contact@PR Prabandhak.com"
                 className="bg-gradient-to-r from-[#FFB200] to-[#FF8C00] text-white p-3 rounded-full hover:bg-gray-800 transition-colors duration-300 flex items-center justify-center"
                 aria-label="Send us an email"
               >

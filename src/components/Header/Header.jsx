@@ -80,7 +80,7 @@ export default function Header() {
             <Link href="/">
               <Image
                 src="/Logo-with-tag.svg"
-                alt="Growwik Logo"
+                alt="PR Prabandhak Logo"
                 width={80}
                 height={30}
               />
@@ -264,7 +264,7 @@ export default function Header() {
                 <Link href={"https://www.soa.ac.in/"}>
                   <Image
                     src="/newone.svg"
-                    alt="Growwik Logo"
+                    alt="PR Prabandhak Logo"
                     width={40}
                     height={6}
                   />

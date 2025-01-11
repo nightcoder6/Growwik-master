@@ -150,7 +150,7 @@ function Lumaai() {
             </h2>
             <Card className="p-6 bg-black/50 border-zinc-800">
               <p className="text-gray-300">
-                Luma AI partnered with Growwik Media to amplify its global
+                Luma AI partnered with PR Prabandhak Media to amplify its global
                 presence and showcase its 3D content creation platform. The
                 campaign aimed to highlight Luma AI&apos;s unique features,
                 drive app downloads, and position it as a go-to tool for
@@ -180,7 +180,7 @@ function Lumaai() {
               <p className="text-gray-300">
                 The campaign strategy revolved around leveraging influencers to
                 demonstrate Luma AI&apos;s ability to create &quot;drone shots
-                without a drone.&quot; Growwik collaborated with 35 influencers
+                without a drone.&quot; PR Prabandhak collaborated with 35 influencers
                 from diverse niches, including travel, food, and sports, to
                 produce visually stunning and relatable content.
               </p>
@@ -265,7 +265,7 @@ function Lumaai() {
             <p className="text-gray-300">
               The key challenge was to stand out in a highly competitive AI
               market and achieve organic growth in user engagement and app
-              downloads without heavy reliance on paid promotions. Growwik
+              downloads without heavy reliance on paid promotions. PR Prabandhak
               addressed this by focusing on the campaign&apos;s unique creative
               angle and leveraging influential voices across platforms.
             </p>

@@ -119,7 +119,7 @@ function FlamAppAI() {
             </h2>
             <Card className="p-6 bg-black/50 border-zinc-800">
               <p className="text-gray-300">
-                FlamApp AI collaborated with Growwik Media to integrate AR
+                FlamApp AI collaborated with PR Prabandhak Media to integrate AR
                 technology into marketing campaigns for several prominent
                 brands. The objective was to enhance consumer engagement,
                 increase brand visibility, and position these brands as pioneers

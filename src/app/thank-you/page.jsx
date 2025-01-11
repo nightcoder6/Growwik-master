@@ -55,7 +55,7 @@ export default function ThankYouPage() {
           </motion.div>
           <h1 className="text-4xl font-bold text-white">Thank You!</h1>
           <p className="text-xl text-[#FFD700]">
-            Thank You for Connecting with Growwik!
+            Thank You for Connecting with PR Prabandhak!
           </p>
           <p className="text-lg text-gray-300">
             We&apos;ve received your details and are excited to move forward

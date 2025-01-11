@@ -13,12 +13,12 @@ export default function Footer() {
     {
       name: "LinkedIn",
       icon: FaLinkedinIn,
-      href: "https://www.linkedin.com/company/growwik/",
+      href: "https://www.linkedin.com/company/PR Prabandhak/",
     },
     {
       name: "Instagram",
       icon: FaInstagram,
-      href: "https://www.instagram.com/growwikmedia/profilecard/?igsh=MWwyeDBoNWtyZTgzZA==",
+      href: "https://www.instagram.com/PR Prabandhakmedia/profilecard/?igsh=MWwyeDBoNWtyZTgzZA==",
     },
     {
       name: "Facebook",
@@ -40,7 +40,7 @@ export default function Footer() {
             <Link href="/">
             <Image
                 src="/Logo-with-tag.svg"
-                alt="Growwik Logo"
+                alt="PR Prabandhak Logo"
                 width={200}
                 height={50}
               />
@@ -126,10 +126,10 @@ export default function Footer() {
               </li>
               <li className="flex items-start">
                 <Link
-                  href="mailto:Contact@growwik.com"
+                  href="mailto:Contact@PR Prabandhak.com"
                   className="hover:text-gray-300 transition-colors duration-200"
                 >
-                  Contact@growwik.com
+                  Contact@PR Prabandhak.com
                 </Link>
               </li>
               <li>
@@ -141,7 +141,7 @@ export default function Footer() {
         </div>
         <div className="mt-12 pt-8 border-t border-gray-800 text-center">
           <p className="text-base text-white">
-            © {currentYear} Growwik. All rights reserved.
+            © {currentYear} PR Prabandhak. All rights reserved.
           </p>
         </div>
       </div>
